@@ -11,6 +11,7 @@ The Fantasy Premier League API is a .NET-based web application designed to manag
   - Create a new team with a list of players.
   - Update an existing team with new player information.
   - Delete a team by ID.
+  - Retrieve details of the team with the highest total points 
 
 - **Player Management:**
   - Retrieve all players sorted by points.
