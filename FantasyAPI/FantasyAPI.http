@@ -1,0 +1,6 @@
+@FantasyAPI_HostAddress = http://localhost:5180
+
+GET {{FantasyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
